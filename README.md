@@ -21,13 +21,13 @@ Each question is written separately with simple code and clear variable names.
 ---
 
 ## Folder Structure 📂
-check_element_in_tuple.py
-empty.py
-max.py
-modify_tuple.py
-slice_tuple.py
+check_element_in_tuple.py.
+empty.py.
+max.py.
+modify_tuple.py.
+slice_tuple.py.
 ---
 ## How to Run 
-Open terminal or command prompt in the folder and run any file like this:
+Open terminal or command prompt in the folder and run any file like this:.
 python filename.py
 
